@@ -1,0 +1,15 @@
+.bg-container {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.big-img {
+  align-self: center;
+  width: 65%;
+}
+
+.thumbnail-container {
+  display: flex;
+}

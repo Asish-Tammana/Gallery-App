@@ -1,0 +1,12 @@
+.thumbnail-item {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.thumbnail-list-img {
+  width: 30px;
+}
+
+.active-class {
+  opacity: 0.5;
+}
